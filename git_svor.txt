@@ -31,3 +31,6 @@ Git spurningar og svör
 			  - Sýnir allar staged breytingar
 	c) git diff commit1 commit2
 			  - Sýnir breyting á milli þessa tveggja commits
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+		  - Útgáfustýring (version control) er tól sem recordar breytingar á file eða files svo þú getur kallað aftur á fyrrverandi útgáfur seinna. ofl.
