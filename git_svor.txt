@@ -23,3 +23,11 @@ Git spurningar og svör
 			  - Sýnir breytingar á milli commits, commit og working tree
 	git checkout
 			  - Breytir um greinar eða restorar folders í working treeinu
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff
+			  - Sýnir bara breytingar á milli commits, commit og working tree 
+	b) git diff --staged 
+			  - Sýnir allar staged breytingar
+	c) git diff commit1 commit2
+			  - Sýnir breyting á milli þessa tveggja commits
