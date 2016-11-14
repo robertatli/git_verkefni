@@ -48,3 +48,6 @@ Git spurningar og svör
 		  		  - Staging area er file sem geymir upplýsingar um hvað mun fara inn í næsta commit.
 		  >Repository
 		  		  - Þar sem git geymir metadataið og object databaseinn fyrir verkefnið þitt. Þetta er líka hluturinn sem er copyaður þegar þú clone-ar repository frá annari tölvu
+
+8.	Hvenær er sniðugt að nota greinar (branches)?
+		  - Það er gott að nota greinar þegar þarf bæta við hluti eða laga bug í kóðanum svo að kóði sem virkar ekki fer ekki í master greinina til að mögulega hafa slæm áhrif á hana. 
