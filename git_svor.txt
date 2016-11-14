@@ -40,3 +40,11 @@ Git spurningar og svör
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 		  - Mjög oft, því að ef þú gleimir að commita þá savear git ekki og þá geturu ekki farið aftur á fyrrverandi state, að commita oft þá getur þú farið aftur til nákvæmari tíma og ekki mögulega þurft að gera stórann hluta aftur.
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+		  >Working directory
+		  		  - Þar sem ein gerðin af verkefninu þínu er geymd, hún er síðan tekin út og sett á disk þar sem þú getur unnið með hana
+		  >Staging area
+		  		  - Staging area er file sem geymir upplýsingar um hvað mun fara inn í næsta commit.
+		  >Repository
+		  		  - Þar sem git geymir metadataið og object databaseinn fyrir verkefnið þitt. Þetta er líka hluturinn sem er copyaður þegar þú clone-ar repository frá annari tölvu
