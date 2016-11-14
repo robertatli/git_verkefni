@@ -11,3 +11,15 @@ Git spurningar og svör
 			  - Sýnir slóð að núverandi directory	  
 	mkdir
 			  - Býr til nýtt directory á staðnum sem þú ert á
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone
+			  - Tekur afrit af directory og setur afritið í nýtt directory
+	git log
+			  - Sýnir Commit logs
+	git status
+			  - Sýnir statusinn á paths 
+	git diff
+			  - Sýnir breytingar á milli commits, commit og working tree
+	git checkout
+			  - Breytir um greinar eða restorar folders í working treeinu
