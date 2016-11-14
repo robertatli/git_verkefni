@@ -37,3 +37,6 @@ Git spurningar og svör
 
 5.	Hverjir eru helstu kostir við að nota GIT?
 		  - Git trackar state, sögu og heilsu source trésins. Annað en t.d. SVN sem trackar bara state.
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+		  - Mjög oft, því að ef þú gleimir að commita þá savear git ekki og þá geturu ekki farið aftur á fyrrverandi state, að commita oft þá getur þú farið aftur til nákvæmari tíma og ekki mögulega þurft að gera stórann hluta aftur.
