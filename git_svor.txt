@@ -1,1 +1,13 @@
 Git spurningar og svör
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd
+	          - Skiptir um directory í fyrrverandi directory
+	cd ~
+			  - Skiptir directory í home directory hjá notandanum
+	ls
+			  - Sýnir hlutina sem eru í núverandi directory
+	pwd
+			  - Sýnir slóð að núverandi directory	  
+	mkdir
+			  - Býr til nýtt directory á staðnum sem þú ert á
