@@ -34,3 +34,6 @@ Git spurningar og svör
 
 4. 	Hvað er útgáfustýring (e.version control)? 
 		  - Útgáfustýring (version control) er tól sem recordar breytingar á file eða files svo þú getur kallað aftur á fyrrverandi útgáfur seinna. ofl.
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+		  - Git trackar state, sögu og heilsu source trésins. Annað en t.d. SVN sem trackar bara state.
